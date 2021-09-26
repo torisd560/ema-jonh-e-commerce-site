@@ -1,0 +1,22 @@
+.product-container{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.product-info{
+    margin-left: 30px;
+}
+.product-info h3{
+    color: rgb(27, 41, 245);
+    font-weight: 400;
+}
+.addToCart-btn{
+    width: 200px;
+    background: rgb(248, 196, 83);
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}

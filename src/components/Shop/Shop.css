@@ -1,0 +1,23 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.search-container{
+    text-align: center;
+    background: rgb(39, 38, 38);
+    padding: 20px;
+}
+.search-container input{
+    height: 25px;
+    width: 80%;
+    font-size: 16px;
+}
+.cart-icon{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.cart-count{
+    color: rgb(228, 135, 13);
+}

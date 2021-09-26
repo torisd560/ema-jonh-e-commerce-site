@@ -1,0 +1,22 @@
+.cart-container{
+    margin-left: 30px;
+}
+.cart-container h2,h4{
+text-align: center;
+}
+.cart-container h4{
+    font-weight: 500;
+}
+.cart-container h3{
+    color: rgb(182, 37, 37);
+}
+.cart-container p{
+    line-height: 10px;
+}
+.review-order-btn{
+    width: 200px;
+    background: rgb(248, 196, 83);
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
